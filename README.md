@@ -68,7 +68,7 @@ I turn complex challenges into high-performance digital solutions. With **7+ yea
       <td align="center" style="padding: 15px; border: 1px solid #30363d;">
         <img src="https://img.icons8.com/ios-filled/24/ffffff/phone.png"/>
         <br/>
-        <span style="color:#58a6ff;">+1 978 1234 5678</span>
+        <span style="color:#58a6ff;">+1 978 449 1556</span>
       </td>
       <td align="center" style="padding: 15px; border: 1px solid #30363d;">
         <img src="https://img.icons8.com/ios-filled/24/ffffff/discord-logo.png"/>
