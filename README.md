@@ -14,7 +14,7 @@ I turn complex challenges into high-performance digital solutions. With **7+ yea
 ## 🛠️ Tech Universe  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,java,python,ts,react,vue,angular,nextjs,flutter,django,spring,docker,kubernetes,jenkins,githubactions,terraform,azure,mysql,postgres,mongodb,redis,linux" />
+  <img src="https://skillicons.dev/icons?i=dotnet,java,python,ts,react,vue,angular,nextjs,flutter,django,spring,docker,kubernetes,jenkins,githubactions,terraform,azure,mysql,postgres,mongodb,redis,linux,swift,kotlin,github,kafka,go,ruby,php,bitbucket,gitlab,flask,fastapi,redis,tauri,laravel,graphql" />
 </p>
 
 ---
