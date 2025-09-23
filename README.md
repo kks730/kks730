@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- Futuristic GitHub Profile for Mori Haruto -->
 
-<!--
-**kks730/kks730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Hero Section -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=0EF7F7&center=true&vCenter=true&width=600&lines=Hey!+I'm+Mori+Haruto;Senior+Software+Engineer+%F0%9F%9A%80;Full+Stack+%7C+Cloud-Native+%7C+DevOps;Turning+Ideas+into+Scalable+Solutions">
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/DenverCoder1/github-readme-streak-stats/raw/master/demo.gif" width="350"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 Who Am I?
+
+```yaml
+name: Mori Haruto
+role: Senior Software Engineer
+based_in: Nagoya, Japan
+languages_spoken: [Japanese, English, Chinese]
+interests: [Cloud Computing, AI, Hackathons, Football ⚽]
+quote: "Build scalable systems. Mentor. Share knowledge. Code with purpose."
