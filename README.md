@@ -7,13 +7,9 @@
 
 ## 🌌 About Me  
 
-🔥 **7+ years experience** building **cloud-native, full-stack, and scalable applications**  
-🧩 Passionate about **automation, system optimization & mentoring**  
-🌍 Based in **Nagoya, Japan** — but building for a **global impact**  
-🎤 Active **speaker, mentor & community organizer** in Tokyo’s tech scene  
-⚽ **Footballer inspired by Messi** — strategy & teamwork drive my code  
+I turn complex challenges into high-performance digital solutions. With **7+ years** of experience across fintech, e-commerce and enterprise applications, I specialize in building systems that achieve **99% uptime** and deliver **40%+ performance improvements**.
 
----
+ ---
 
 ## 🛠️ Tech Universe  
 
@@ -45,20 +41,6 @@
 🌍 **Community Builder** (organizer @ Tokyo Tech Meetups)  
 🤖 **AI Explorer** (error-classifier ML model, +40% diagnostic accuracy)  
 
----
-
-## 📊 GitHub Arena  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moriharuto&show_icons=true&theme=vision-friendly-dark" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moriharuto&theme=vision-friendly-dark" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moriharuto&theme=tokyo-night" />
-</p>
-
----
 
 ## 🐍 Contribution Snake  
 
@@ -86,24 +68,20 @@
       <td align="center" style="padding: 15px; border: 1px solid #30363d;">
         <img src="https://img.icons8.com/ios-filled/24/ffffff/phone.png"/>
         <br/>
-        <span style="color:#58a6ff;">+81 90 1234 5678</span>
+        <span style="color:#58a6ff;">+1 978 1234 5678</span>
       </td>
       <td align="center" style="padding: 15px; border: 1px solid #30363d;">
         <img src="https://img.icons8.com/ios-filled/24/ffffff/discord-logo.png"/>
         <br/>
-        <span style="color:#58a6ff;">mori#1234</span>
+        <span style="color:#58a6ff;">sinbad0730_27155</span>
       </td>
       <td align="center" style="padding: 15px; border: 1px solid #30363d;">
         <img src="https://img.icons8.com/ios-filled/24/ffffff/telegram-app.png"/>
         <br/>
-        <span style="color:#58a6ff;">moriharuto0730</span>
+        <span style="color:#58a6ff;">mori_haruto</span>
       </td>
     </tr>
   </table>
   <p style="color:#58a6ff; font-size:12px; margin-top:5px;">© Last Updated On Sep 23 2025</p>
 </div>
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=footer&text=✨%20Build.%20Mentor.%20Inspire.%20Code%20with%20Purpose.%20✨&fontSize=20&fontColor=fff" />
-</div>
