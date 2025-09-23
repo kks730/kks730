@@ -75,15 +75,35 @@
 🎤 Speaker @ JSEA • 🏆 Hackathon Competitor • 👨‍🏫 Mentor • ⚽ Football strategist  
 
 ---
+## 📫 Connect with Me
 
-## 📫 Connect with Me  
-
-<p align="center">
-  <a href="mailto:moriharuto0730@gmail.com"><img src="https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/moriharuto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/moriharuto"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
+<div align="center">
+  <table style="background-color:#0d1117; border-collapse: collapse; width: 90%; max-width: 800px;">
+    <tr>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;">
+        <img src="https://img.icons8.com/ios-filled/24/ffffff/new-post.png"/>
+        <br/>
+        <a href="mailto:moriharuto0730@gmail.com" style="color: #58a6ff; text-decoration: none;">moriharuto0730@gmail.com</a>
+      </td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;">
+        <img src="https://img.icons8.com/ios-filled/24/ffffff/phone.png"/>
+        <br/>
+        <span style="color:#58a6ff;">+81 90 1234 5678</span>
+      </td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;">
+        <img src="https://img.icons8.com/ios-filled/24/ffffff/discord-logo.png"/>
+        <br/>
+        <span style="color:#58a6ff;">mori#1234</span>
+      </td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;">
+        <img src="https://img.icons8.com/ios-filled/24/ffffff/telegram-app.png"/>
+        <br/>
+        <span style="color:#58a6ff;">moriharuto0730</span>
+      </td>
+    </tr>
+  </table>
+  <p style="color:#58a6ff; font-size:12px; margin-top:5px;">© Last Updated On Sep 23 2025</p>
+</div>
 ---
 
 <div align="center">
